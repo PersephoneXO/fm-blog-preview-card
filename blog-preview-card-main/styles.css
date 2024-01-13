@@ -73,6 +73,11 @@ body{
     margin-top: 15px;
 }
 
+.title:hover, .title:focus{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 .description{
     font-size: 14px;
     margin: 0;
